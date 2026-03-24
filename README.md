@@ -2,9 +2,9 @@
 
 A real-time sentiment analysis system built with **DistilBERT**, fine-tuned locally on the SST-2 dataset. Given a text input, the model classifies it as **POSITIVE** or **NEGATIVE** with a confidence score.
 
-> ⚠️ **Note on confidence score**: the score does not indicate *how positive or negative* a text is — it represents *how confident the model is* about its prediction. A score of 0.99 on a NEGATIVE label means the model is 99% sure the text is negative, not that it is "99% negative".
+> **Live Demo**: [HuggingFace Spaces](https://huggingface.co/spaces/mat-rib/live-sentiment-analyzer)
 
-> 🤗 **Live Demo**: [HuggingFace Spaces](#) ← *add your link here*
+> **Note on confidence score**: the score does not indicate *how positive or negative* a text is — it represents *how confident the model is* about its prediction. A score of 0.99 on a NEGATIVE label means the model is 99% sure the text is negative, not that it is "99% negative".
 
 ---
 
